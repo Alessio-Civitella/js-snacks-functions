@@ -5,6 +5,11 @@ const word = 'javascript';
 
 // Dichiara la funzione qui.
 
+/**
+ * 
+ * @param {string} str 
+ * @returns {string}
+ */
 function contaVocali(str) {
     let conta = 0;
     let vocaliTrovate = [];  // Array per raccogliere le vocali trovate
